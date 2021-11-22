@@ -65,6 +65,6 @@ Hi! Welcome to my webpage!
 
 I am a final year undergraduate student pursuing Bachelor's Degree in Electronics & Telecommunication Engineering at Vivekanand Education Society's Institute of Technology, University of Mumbai. 
 
-I am interested in applying Computer Vision for applications which benefit the society at large. I am particularly interested in exploring and understanding Deep Neural Networks for a variety of problems.
+I am interested in applying Computer Vision for applications which benefit the society at large. I am particularly interested in understanding and exploring Deep Neural Networks for a variety of problems.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
