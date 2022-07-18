@@ -15,11 +15,11 @@ authors:
 #- "Equal contribution"
 #- "Equal contribution"
 
-date: "June 2021"
+date: "July 2022"
 #doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-06-04"
+publishDate: "2022-12-07"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,7 +29,7 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: ACM TMIS
-publication_short: ACM Transactions on Information Management Systems [Under Review]
+publication_short: ACM Transactions on Information Management Systems
 
 #abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
