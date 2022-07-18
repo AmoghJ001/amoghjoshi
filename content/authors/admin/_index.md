@@ -27,7 +27,7 @@ education:
   courses:
   - course: Master of Science(MS) in Computer Science
     institution: Arizona State University
-    year: Fall 2022-2024(Expected)
+    year: Fall 2022-2024 (Expected)
   - course: B.Engg in Electronics & Telecommunication
     institution: VES Institute of Technology
     year: 2018-2022
@@ -66,8 +66,9 @@ highlight_name: true
 
 Hi! Welcome to my webpage!
 
-I am an incoming Fall 2022 Master's(MS) in Computer Science Student at Arizona State University. I have done my bachelor's in Electronics and Telecommunication Engineering from University of Mumbai.
+I am an incoming Fall 2022 MS Computer Science Student at Arizona State University. 
+I have done my bachelor's in Electronics and Telecommunication Engineering from University of Mumbai.
 
 I am interested in applying Computer Vision for applications which benefit the society at large. I am particularly interested in understanding and exploring Deep Neural Networks for a variety of problems.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
