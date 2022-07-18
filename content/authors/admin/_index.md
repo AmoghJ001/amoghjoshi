@@ -6,26 +6,29 @@ title: Amogh Manoj Joshi
 superuser: true
 
 # Role/position/tagline
-role: Final Year Undergraduate
+role: Incoming CS Grad Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: VES Institute of Technology
-  url: https://vesit.ves.ac.in/
+- name: Arizona State University
+  url: https://www.asu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include deep learning, computer vision and medical image analysis.
+bio: My research interests include Deep Learning and Computer Vision.
 
 # Interests to show in About widget
 interests:
 - Deep Learning
 - Computer Vision
-- Medical Image Analysis
+- Data Science
 
 # Education to show in About widget
 education:
   courses:
-  - course: BE in Electronics & Telecommunication
+  - course: Master of Science(MS) in Computer Science
+    institution: Arizona State University
+    year: Fall 2022-2024(Expected)
+  - course: B.Engg in Electronics & Telecommunication
     institution: VES Institute of Technology
     year: 2018-2022
 
@@ -63,8 +66,8 @@ highlight_name: true
 
 Hi! Welcome to my webpage!
 
-I am a final year undergraduate student pursuing Bachelor's Degree in Electronics & Telecommunication Engineering at Vivekanand Education Society's Institute of Technology, University of Mumbai. 
+I am an incoming Fall 2022 Master's(MS) in Computer Science Student at Arizona State University. I have done my bachelor's in Electronics and Telecommunication Engineering from University of Mumbai.
 
 I am interested in applying Computer Vision for applications which benefit the society at large. I am particularly interested in understanding and exploring Deep Neural Networks for a variety of problems.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
