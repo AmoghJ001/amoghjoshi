@@ -36,7 +36,7 @@ experience:
         * MFL-Net (30x lighter than ResNet-50 and 9x lighter than DenseNet-121) achieved an accuracy of 98.79% and 93.59% on SARS-CoV-2 CT-Scan dataset and COVID-CT dataset respectively.
         
   - title: Intern at Interactive Media Group
-    company: Microsoft Research
+    company: Microsoft Research(MSR) Redmond
     company_url: ''
     company_logo: Microsoft_logo
     location: Redmond, Washington
