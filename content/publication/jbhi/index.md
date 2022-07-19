@@ -1,5 +1,5 @@
 ---
-title: "MFL-Net: An Efficient Lightweight Multi-Scale Feature Learning CNN For COVID-19 Diagnosis From Chest CT Scans"
+title: "MFL-Net: An Efficient Lightweight Multi-Scale Feature Learning CNN For COVID-19 Diagnosis From CT Images"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
