@@ -72,8 +72,8 @@ I have done my bachelor's in Electronics and Telecommunication Engineering from 
 I am interested in applying Computer Vision for applications which benefit the society at large. I am particularly interested in understanding and exploring Deep Neural Networks for a variety of problems.
 
 ```diff
-+I am looking for Deep Learning/Machine Learning based roles for Summer 2023 Internship+ 
-+Please reach out to me if interested!+
+I am looking for Deep Learning/Machine Learning based roles for Summer 2023 Internship
+Please reach out to me if interested!
 ```
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
