@@ -43,8 +43,7 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
-   url: https://ieeexplore.ieee.org/abstract/document/9293753
-
+   #url: 
 url_pdf: 'publication/example/AMJ_Tencon.pdf'
 #url_code: ''
 #url_dataset: ''
