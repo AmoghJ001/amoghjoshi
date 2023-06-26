@@ -66,14 +66,15 @@ highlight_name: true
 
 Hi! Welcome to my webpage!
 
-I am Computer Science Master's Student at Arizona State University.
+I am Computer Science Master's Student at Arizona State University.<br>
 I have done my bachelor's in Electronics and Telecommunication Engineering from University of Mumbai.
 
-Broadly speaking, my interests lie in Computer Vision and Deep Learning. I am particularly interested in developing and proposing parameterically efficient lightweight Deep Neural Networks (with faster inference time) which facilitate edge deployment and evaluating lightweight architectures through the lens of adversarial robustness.
+Broadly speaking, my interests lie in Computer Vision and Deep Learning. <br>
+I am particularly interested in developing and proposing parameterically efficient lightweight Deep Neural Networks (with faster inference) which facilitate edge deployment and evaluating lightweight architectures through the lens of adversarial robustness.
 
-%```diff
-%+ I am looking for Deep Learning/Machine Learning based Internship roles for Summer 2023.
-%+ Please reach out to me if interested!
-%```
+#```diff
+#+ I am looking for Deep Learning/Machine Learning based Internship roles for Summer 2023.
+#+ Please reach out to me if interested!
+#```
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
