@@ -25,12 +25,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Master of Science(MS) in Computer Science
+  - course: Master of Science in Computer Science
     institution: Arizona State University
-    year: Fall 2022-2024 (Expected)
+      year: Aug 2022 - May 2024 (Expected)
   - course: B.Engg in Electronics & Telecommunication
     institution: VES Institute of Technology, University of Mumbai
-    year: 2018-2022
+    year: July 2018 - June 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -67,14 +67,13 @@ highlight_name: true
 Hi! Welcome to my webpage!
 
 I am Computer Science Master's Student at Arizona State University.<br>
-I have done my bachelor's in Electronics and Telecommunication Engineering from University of Mumbai.
 
 Broadly speaking, my interests lie in Computer Vision and Deep Learning. <br>
 I am particularly interested in developing and proposing parameterically efficient lightweight Deep Neural Networks (with faster inference) and evaluating them through the lens of adversarial robustness.
 
-# ```diff
-# + I am looking for Deep Learning/Machine Learning based Internship roles for Summer 2023.
-# + Please reach out to me if interested!
-# ```
+### ```diff
+### + I am looking for Deep Learning/Machine Learning based Internship roles for Summer 2023.
+#### + Please reach out to me if interested!
+
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
