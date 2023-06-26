@@ -71,9 +71,5 @@ I am Computer Science Master's Student at Arizona State University.<br>
 Broadly speaking, my interests lie in Computer Vision and Deep Learning. <br>
 I am particularly interested in developing and proposing parameterically efficient lightweight Deep Neural Networks (with faster inference) and evaluating them through the lens of adversarial robustness.
 
-### ```diff
-### + I am looking for Deep Learning/Machine Learning based Internship roles for Summer 2023.
-#### + Please reach out to me if interested!
-
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
