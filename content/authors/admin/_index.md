@@ -27,10 +27,10 @@ education:
   courses:
   - course: Master of Science in Computer Science
     institution: Arizona State University
-      year: Aug 2022 - May 2024 (Expected)
+      year: Aug 2022-May 2024 (Expected)
   - course: B.Engg in Electronics & Telecommunication
     institution: VES Institute of Technology, University of Mumbai
-    year: July 2018 - June 2022
+    year: July 2018-June 2022
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
