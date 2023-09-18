@@ -36,7 +36,7 @@ experience:
         * Developed and integrated the same technique as an end-to-end Black-Box watermarking module with Latent AI's flagship LEIP SDK toolkit as an add-on feature.
         * Conducted empirical experiments across different benchmark datasets and model architectures to prove the robustness of the watermarking method against variety of attacks like FTAL, FTLL, Pruning etc.
 
- - title: Graduate Research Assistant 
+  - title: Graduate Research Assistant 
     company: Prof. Teresa Wu's Lab, SCAI, ASU
     company_url: 'https://labs.engineering.asu.edu/wulab/'
     company_logo: scai.png
