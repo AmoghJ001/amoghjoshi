@@ -25,7 +25,7 @@ experience:
   - title: Research Assistant
     company: Malaviya National Institute of Technology Jaipur
     company_url: ''
-    company_logo: Mnit_logo
+    company_logo: Mnit_logo.png
     location: Jaipur, India
     date_start: '2020-05-01'
     date_end: '2022-05-01'
