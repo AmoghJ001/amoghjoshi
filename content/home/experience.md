@@ -26,7 +26,7 @@ experience:
  - title: Machine Learning Intern
     company: Latent AI Inc.
     company_url: 'https://latentai.com/'
-    company_logo: Lai
+    company_logo: lai.png
     location: Skillman, NJ
     date_start: '2023-05-22'
     date_end: '2023-08-15'
@@ -40,7 +40,7 @@ experience:
  - title: Graduate Research Assistant, 
     company: Prof. Teresa Wu's Lab, SCAI, ASU
     company_url: 'https://labs.engineering.asu.edu/wulab/'
-    company_logo: scai
+    company_logo: scai.png
     location: Tempe, AZ
     date_start: '2022-08-18'
     date_end: '2023-05-01'
