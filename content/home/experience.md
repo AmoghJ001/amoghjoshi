@@ -37,7 +37,7 @@ experience:
         * Developed and integrated the same technique as an end-to-end Black-Box watermarking module with Latent AI's flagship LEIP SDK toolkit as an add-on feature.
         * Conducted empirical experiments across different benchmark datasets and model architectures to prove the robustness of the watermarking method against variety of attacks like FTAL, FTLL, Pruning etc.
 
- - title: Graduate Research Assistant, 
+ - title: Graduate Research Assistant 
     company: Prof. Teresa Wu's Lab, SCAI, ASU
     company_url: 'https://labs.engineering.asu.edu/wulab/'
     company_logo: scai.png
@@ -98,19 +98,6 @@ experience:
         * Grouped bikes with similar trip patterns like trip distance and trip duration using K-means clustering into three categories: highly used, moderately used and rarely used bikes.
         * Trained a Random Forest Classifier to predict the best cluster of bikes depending on the user’s desired trip duration and trip distance. The model achieved an accuracy of 97%.
 
-
-  - title: Winter Research Intern
-    company: Indian Institute of Information Technology Allahabad
-    company_url: ''
-    company_logo: alahab
-    location: Prayagraj, India
-    date_start: '2019-11-01'
-    date_end: '2020-01-01'
-    description: |2-
-        Research intern under Prof. Ratan K Saha, Dept of Applied Sciences:
-        * Studied various Biomedical Imaging Modalities. Work mainly focused on Photoacoustic Imaging techniques like PA Tomography, Microscopy.
-        * Successfully simulated phantoms of various shapes using K-Wave toolbox in MATLAB. 
-        * Implemented various Image Development Algorithms like UBP, TI and worked on different simulation techniques like Monte Carlo Simulation.
 design:
   columns: '2'
 ---
