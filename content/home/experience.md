@@ -22,9 +22,35 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Research Assistant
+- title: Machine Learning Intern
+    company: Latent AI Inc.
+    company_url: 'https://latentai.com/'
+    company_logo: Lai
+    location: Skillman, NJ
+    date_start: '2023-05-22'
+    date_end: '2023-08-15'
+    description: |2-
+        Joined as a Machine Learning Intern under the ML Team:
+        * Worked on enabling Intellectual Property Ownership verification using Black-Box Watermarking of DNNs.
+        * Implemented a fully Black-Box DNN watermarking technique which gives 100% success rate with just 10-30% of the training compute cost (takes less than 10 minutes on a single 12 GB GPU of NVIDIA RTX 3070).
+        * Developed and integrated the same technique as an end-to-end Black-Box watermarking module with Latent AI's flagship LEIP SDK toolkit as an add-on feature.
+        * Conducted empirical experiments across different benchmark datasets and model architectures to prove the robustness of the watermarking method against variety of attacks like FTAL, FTLL, Pruning etc.
+
+ - title: Graduate Research Assistant, 
+    company: Prof. Teresa Wu's Lab, SCAI, ASU
+    company_url: 'https://labs.engineering.asu.edu/wulab/'
+    company_logo: scai
+    location: Tempe, AZ
+    date_start: '2022-08-18'
+    date_end: '2023-05-01'
+    description: |2-
+        * Worked on predicting the improvement in aPTH (migraine) patients using a multi-modal approach combining functional MRI data and brain T2* imaging data using Graph Neural Networks (GNNs).
+        * Improved the aPTH severity prediction accuracy by a stellar 11.5% by performing feature selection using Boruta ranking algorithm and SHAPley feature importance scores.
+        * Collaborated with medical experts of Mayo Clinic and visualized the classification performance of our method to them by generating 3D embeddings of the final classification layer using UMAP projection plots.
+   
+  - title: Research Assistant: Deep Learning, Computer Vision
     company: Malaviya National Institute of Technology Jaipur
-    company_url: ''
+    company_url: 'https://depakranjannayak.wixsite.com/drnayak/research-1'
     company_logo: Mnit
     location: Jaipur, India
     date_start: '2020-05-01'
