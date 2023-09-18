@@ -48,7 +48,7 @@ experience:
         * Improved the aPTH severity prediction accuracy by a stellar 11.5% by performing feature selection using Boruta ranking algorithm and SHAPley feature importance scores.
         * Collaborated with medical experts of Mayo Clinic and visualized the classification performance of our method to them by generating 3D embeddings of the final classification layer using UMAP projection plots.
    
-  - title: Research Assistant: Deep Learning, Computer Vision
+  - title: Research Assistant, Deep Learning, Computer Vision
     company: Malaviya National Institute of Technology Jaipur
     company_url: 'https://depakranjannayak.wixsite.com/drnayak/research-1'
     company_logo: Mnit
