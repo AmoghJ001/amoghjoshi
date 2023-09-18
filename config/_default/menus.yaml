@@ -7,24 +7,27 @@ main:
   - name: Bio
     url: '#about'
     weight: 10
+  - name: News
+    url: '#recent_news'
+    weight: 20
   - name: Experience
     url: '#experience'
-    weight: 20
+    weight: 30
   - name: Publications
     url: '#featured'
-    weight: 30
+    weight: 40
   - name: Projects
     url: '#projects'
-    weight: 40
+    weight: 50
   - name: Awards
     url: '#awards'
-    weight: 45
+    weight: 55
   - name: Courses
     url: '#accomplishments'
-    weight: 50
+    weight: 60
   - name: Contact
     url: '#contact'
-    weight: 60
+    weight: 65
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
