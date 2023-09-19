@@ -39,7 +39,7 @@ experience:
   - title: Graduate Research Assistant 
     company: Prof. Teresa Wu's Lab, SCAI, ASU
     company_url: 'https://labs.engineering.asu.edu/wulab/'
-    company_logo: scai
+    company_logo: arizona-state-university
     location: Tempe, AZ
     date_start: '2022-08-18'
     date_end: '2023-05-01'
