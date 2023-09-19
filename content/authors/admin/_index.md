@@ -26,10 +26,10 @@ interests:
 education:
   courses:
   - course: Master of Science in Computer Science
-    institution: Arizona State University 
+    institution: Arizona State University<br>
     year: Aug 2022 - May 2024 (Expected)
   - course: B.Engg in Electronics & Telecommunication
-    institution: VES Institute of Technology, University of Mumbai
+    institution: VES Institute of Technology, University of Mumbai<br>
     year: July 2018 - June 2022
 
 # Social/Academic Networking
