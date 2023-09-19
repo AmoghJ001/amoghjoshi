@@ -39,7 +39,7 @@ experience:
   - title: Graduate Research Assistant 
     company: Prof. Teresa Wu's Lab, SCAI, ASU
     company_url: 'https://labs.engineering.asu.edu/wulab/'
-    company_logo: arizona-state-university
+    company_logo: scai
     location: Tempe, AZ
     date_start: '2022-08-18'
     date_end: '2023-05-01'
@@ -51,7 +51,7 @@ experience:
   - title: Research Assistant, Deep Learning, Computer Vision
     company: Malaviya National Institute of Technology Jaipur
     company_url: 'https://depakranjannayak.wixsite.com/drnayak/research-1'
-    company_logo: Mnit
+    company_logo: Mnit_logo
     location: Jaipur, India
     date_start: '2020-05-01'
     date_end: '2022-05-01'
