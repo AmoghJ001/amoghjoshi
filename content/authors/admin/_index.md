@@ -78,4 +78,4 @@ My research interests span across multiple sub-domains:
 
 <p style="color:red">I am highly interested in pursuing a PhD in Computer Vision/Deep Learning starting Fall 2024!</p>
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Amogh_2pg_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
