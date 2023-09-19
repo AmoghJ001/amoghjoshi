@@ -69,7 +69,13 @@ Hi! Welcome to my webpage!
 I am Computer Science Master's Student at Arizona State University.<br>
 
 Broadly speaking, my interests lie in Computer Vision and Deep Learning. <br>
-I am particularly interested in developing and proposing parameterically efficient lightweight Deep Neural Networks (with faster inference) and evaluating them through the lens of adversarial robustness.
+My research interests span across multiple domains: <br>
+<ul>
+  <li>I am particularly interested in developing parameter-efficient Deep Learning approaches (with faster edge inference) which spans several sub-topics like Sparse Mixture-of-Experts (MoE) models, Knowledge Distillation, and also evaluating their adversarial robustness.</li>
+  <li>I am also interested in exploring Multi-Modal Vision-Language based approaches which learn better data representations.</li>
+  <li>My research has touched upon several application areas including Medical Image Analysis, Document Classification, Adversarial Robustness etc.</li>
+</ul>
 
+<p style="color:red">I am highly interested in pursuing a PhD in Computer Vision/Deep Learning starting Fall 2024!</p>
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
