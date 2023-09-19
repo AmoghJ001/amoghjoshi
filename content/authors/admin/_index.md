@@ -55,7 +55,7 @@ social:
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: uploads/resume.pdf
+#   link: uploads/Amogh_2pg_resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "joshiamogh9@gmail.com"
@@ -71,8 +71,8 @@ I am Computer Science Master's Student at Arizona State University.<br>
 Broadly speaking, my interests lie in Computer Vision and Deep Learning. <br>
 My research interests span across multiple sub-domains:
 <ul>
-  <li>I am particularly interested in developing <strong>parameter-efficient Deep Learning approaches</strong>(with faster edge inference) which spans several sub-topics like <strong>Sparse Mixture-of-Experts (MoE) models</strong>, <strong>Knowledge Distillation</strong>, and also evaluating their <strong>adversarial robustness</strong>.</li>
-  <li>I am also interested in exploring <strong>Multi-Modal Vision-Language based approaches</strong>which learn better data representations.</li>
+  <li>I am particularly interested in developing <strong>parameter-efficient Deep Learning approaches</strong> (with faster edge inference) which spans several sub-topics like <strong>Sparse Mixture-of-Experts (MoE) models</strong>, <strong>Knowledge Distillation</strong>, and also evaluating their <strong>adversarial robustness</strong>.</li>
+  <li>I am also interested in exploring <strong>multi-modal Vision-Language based approaches</strong> which learn better data representations.</li>
   <li>My research has touched upon several application areas including Medical Image Analysis, Document Classification, Adversarial Robustness etc.</li>
 </ul>
 
