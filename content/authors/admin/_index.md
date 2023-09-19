@@ -26,10 +26,10 @@ interests:
 education:
   courses:
   - course: Master of Science in Computer Science
-    institution: Arizona State University<br>
+    institution: Arizona State University
     year: Aug 2022 - May 2024 (Expected)
   - course: B.Engg in Electronics & Telecommunication
-    institution: VES Institute of Technology, University of Mumbai<br>
+    institution: VES Institute of Technology, University of Mumbai
     year: July 2018 - June 2022
 
 # Social/Academic Networking
@@ -58,13 +58,11 @@ social:
 #   link: uploads/Amogh_2pg_resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "joshiamogh9@gmail.com"
+email: "ajoshi83@asu.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-Hi! Welcome to my webpage!
 
 I am Computer Science Master's Student at Arizona State University.<br>
 
