@@ -35,7 +35,8 @@ publication_short: 2020 IEEE 17th India Council International Conference (INDICO
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: []
+tags:
+- deep learning
 
 # Display this page in the Featured widget?
 featured: true
