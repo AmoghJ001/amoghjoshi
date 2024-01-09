@@ -45,8 +45,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: ''
+url_pdf: 'publication/jbhi/MFL_Net_paper.pdf'
+url_code: 'https://github.com/AmoghJ001/MFL_Net'
 url_dataset: ''
 url_poster: ''
 url_project: ''
